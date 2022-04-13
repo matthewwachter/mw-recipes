@@ -32,6 +32,7 @@ Also included are several links to external sites provided they are not riddled 
 - Japanese
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
+    - [Soboro Bowls](japanese/soboro-bowls.md)
     - [Taiyaki](breakfast/taiyaki.md)
     
 - Mexican
