@@ -12,6 +12,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Meat Slaw](appetizers/meat-slaw.md)
 
 - Baking
+    - [Alton Brown Southern Biscuits](baking/alton-brown-southern-biscuits.md)
     - [Brown Butter & Toffee Chocolate Chip Cookies](baking/brown-butter-toffee-chocolate-chip.md)
     - [Pain du Pandémique](http://whatupinternet.com/en/paindupandemique/)
 
@@ -25,10 +26,8 @@ Also included are several links to external sites provided they are not riddled 
 - Casserole
     - [Baked Mac & Cheese](casserole/baked-mac-n-cheese.md)
 
-- Drinks
-    - [Habanero Jamaica](http://whatupinternet.com/en/habanerojamaica/)
-
 - Hot Sauce
+    - [Habanero Jamaica](http://whatupinternet.com/en/habanerojamaica/)
     - [Hurt-Hurt Fruit](http://whatupinternet.com/en/hurthurtfruit/)
 
 - Japanese
