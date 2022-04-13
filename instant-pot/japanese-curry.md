@@ -38,4 +38,4 @@
 ## Notes
 - Serve over rice and garnish with Fukujinzuke.
 - A bit of corn starch can be used as a thickener at the end. It tends to thicken quite a bit as it cools anyway so use cornstarch sparingly.
-- See [GF Curry Roux](GFCurryRoux.md) for gluten free option.
+- See [GF Curry Roux](gf-curry-roux.md) for gluten free option.
