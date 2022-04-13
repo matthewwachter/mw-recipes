@@ -1,4 +1,4 @@
-# The Soup
+# Japanese Curry
 
 ## Ingredients
 - 3 onions
