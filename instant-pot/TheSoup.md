@@ -1,6 +1,6 @@
 # The Soup
 
-## Ingredients:
+## Ingredients
 - 2 tsp olive oil
 - 1 medium yellow onion, diced
 - 2 cloves of garlic, minced
