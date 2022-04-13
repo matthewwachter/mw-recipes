@@ -2,6 +2,8 @@
 
 I got fed up with digging through shitty recipe websites so I decided to make a no-bullshit printer friendly collection.
 
+A few of these recipes require an instant pot or some form of pressure cooker but a crock will suffice given enough time.
+
 Also included are several links to external sites provided they are not riddled with ads or behind paywalls.
 
 ## Contents
@@ -39,6 +41,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Chicken Chile Verde](mexican/chicken-chile-verde.md)
 
 - Pasta
+    - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
     - [Chicken Mascotti](pasta/chicken-mascotti.md)
 
 - Soup
