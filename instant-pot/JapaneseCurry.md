@@ -15,6 +15,7 @@
 - 1 Tbsp ketchup (read the blog post for add-on condiments)
 - 1 Tbsp soy sauce (read the blog post for add-on condiments)
 - Fukujinzuke (red pickled daikon)
+- White short-grain rice
 
 ## Instructions
 1. Cut the onions in half and cut each half into 5 wedges.
@@ -32,5 +33,5 @@
 13. Unlock the lid. (If you're using homemade curry roux, add it to the pot now and heat on Sauté mode for an additional 5 minutes until the roux is well blended into the stew.) Add the ketchup and soy sauce. Mix well, checking one last time that all the curry roux has dissolved.
 
 ## Notes
-- Garnish with Fukujinzuke
+- Serve over rice and garnish with Fukujinzuke.
 - A bit of corn starch can be used as a thickener at the end. It tends to thicken quite a bit as it cools anyway so use cornstarch sparingly.
