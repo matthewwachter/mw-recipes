@@ -1,4 +1,5 @@
 # The Soup
+[Instant Pot Creamy Tortellini, Spinach, and Chicken Soup](https://www.365daysofcrockpot.com/instant-pot-creamy-tortellini-spinach-and-chicken-soup/)
 
 ## Ingredients
 - 2 tsp olive oil

@@ -1,5 +1,8 @@
 # Japanese Curry
 
+## Source
+[Pressure Cooker Japanese Curry](https://www.justonecookbook.com/pressure-cooker-japanese-curry/)
+
 ## Ingredients
 - 3 onions
 - 1 1/2 carrots
