@@ -4,15 +4,15 @@
 [Noodle Kugel](https://www.bonappetit.com/recipe/basically-noodle-kugel)
 
 ## Ingredients
-12 oz. extra-wide egg noodles
-2 tsp. kosher salt, plus more
-½ cup (1 stick) unsalted butter, plus more for pan
-8 large eggs
-½ cup sugar
-1 lb. full-fat cottage cheese
-1 lb. full-fat sour cream
-2 tsp. vanilla extract
-1 tsp. ground cinnamon
+- 12 oz. extra-wide egg noodles
+- 2 tsp. kosher salt, plus more
+- ½ cup (1 stick) unsalted butter, plus more for pan
+- 8 large eggs
+- ½ cup sugar
+- 1 lb. full-fat cottage cheese
+- 1 lb. full-fat sour cream
+- 2 tsp. vanilla extract
+- 1 tsp. ground cinnamon
 
 ## Instructions
 1. Preheat oven to 350°. Cook 12 oz. extra-wide egg noodles in a large pot of boiling salted water, stirring occasionally, until al dente, about 4–5 minutes. Drain, leaving a little bit of water clinging to the noodles.
