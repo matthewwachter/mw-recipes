@@ -40,6 +40,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Fukujinzuke (Japanese Red Pickled Daikon Salad)](japanese/fukujinzuke.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
+    - [Miso Salmon](japanese/miso-salmon.md)
     - [Ramen Eggs (Ajitsuke Tamago)](japanese/ramen-eggs.md)
     - [Ramen (Miso)](japanese/ramen-miso.md)
     - [Ramen (Vegetarian)](japanese/ramen-vegetarian.md)
