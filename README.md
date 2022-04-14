@@ -31,13 +31,19 @@ Also included are several links to external sites provided they are not riddled 
     - [Hurt-Hurt Fruit](http://whatupinternet.com/en/hurthurtfruit/)
 
 - Japanese
+    - [Fukujinzuke](japanese/fukujinzuke.md)
+    - [Japanese Cucumber Salad (Sunomono)](japanese/japanese-cucumber-salad.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
     - [Soboro Bowls](japanese/soboro-bowls.md)
     - [Taiyaki](breakfast/taiyaki.md)
+
+- Jewish
+    - [Latkes](jewish/latkes.md)
     
 - Mexican
     - [Chicken Chile Verde](mexican/chicken-chile-verde.md)
+    - [Don Stanley's Spanish Rice](mexican/don-stanleys-spanish-rice.md)
 
 - Pasta
     - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
