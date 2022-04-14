@@ -41,6 +41,7 @@ Also included are several links to external sites provided they are not riddled 
 
 - Jewish
     - [Latkes](jewish/latkes.md)
+    - [Noodle Kugel](jewish/noodle-kugel.md)
     
 - Mexican
     - [Chicken Chile Verde](mexican/chicken-chile-verde.md)
