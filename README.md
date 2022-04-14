@@ -25,6 +25,7 @@ Also included are several links to external sites provided they are not riddled 
 
 - Casserole
     - [Baked Mac & Cheese](casserole/baked-mac-n-cheese.md)
+    - [Impossibly Easy Cheeseburger Pie](casserole/impossibly-easy-cheeseburger-pie.md)
 
 - Hot Sauce
     - [Habanero Jamaica](http://whatupinternet.com/en/habanerojamaica/)
