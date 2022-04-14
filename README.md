@@ -14,6 +14,8 @@ Also included are several links to external sites provided they are not riddled 
 - Baking
     - [Alton Brown Southern Biscuits](baking/alton-brown-southern-biscuits.md)
     - [Brown Butter & Toffee Chocolate Chip Cookies](baking/brown-butter-toffee-chocolate-chip.md)
+    - [Hamburger or Hotdog Buns](baking/hamburger-buns.md)
+    - [Hamburger Potato Buns](baking/hamburger-potato-buns.md)
     - [Pain du Pandémique](http://whatupinternet.com/en/paindupandemique/)
 
 - BBQ
