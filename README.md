@@ -40,7 +40,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
-    - [Soboro Bowls](japanese/soboro-bowls.md)
+    - [Soboro Donburi](japanese/soboro-donburi.md)
     - [Taiyaki](japanese/taiyaki.md)
     - [Yakimeshi (Japanese Fried Rice)](japanese/japanese-fried-rice.md)
     - [Yakisoba (Japanese Stir-Fried Noodles)](japanese/yakisoba.md)
