@@ -1,4 +1,4 @@
-# Broke College Sausage Penne Alfredo
+# Broke College Student Sausage Penne Alfredo
 
 ## Source
 Emma, college student.
