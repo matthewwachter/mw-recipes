@@ -1,4 +1,4 @@
-# Sesame Tamari Garlic Dill Salmon
+# Rick's Salmon
 
 ## Source
 Rick

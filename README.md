@@ -19,7 +19,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Pain du Pandémique](http://whatupinternet.com/en/paindupandemique/)
 
 - BBQ
-    - [Sesame Tamari Garlic Dill Salmon](bbq/sesame-tamari-garlic-dill-salmon.md)
+    - [Rick's Salmon](bbq/sesame-tamari-garlic-dill-salmon.md)
     - [Smash Burgers](bbq/smash-burgers.md)
 
 - Breakfast
