@@ -36,14 +36,16 @@ Also included are several links to external sites provided they are not riddled 
     - [Hurt-Hurt Fruit](http://whatupinternet.com/en/hurthurtfruit/)
 
 - Japanese
+    - [Chashu](japanese/chashu.md)
     - [Fukujinzuke (Japanese Red Pickled Daikon Salad)](japanese/fukujinzuke.md)
-    - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
     - [Ramen Eggs (Ajitsuke Tamago)](japanese/ramen-eggs.md)
     - [Ramen (Miso)](japanese/ramen-miso.md)
     - [Ramen (Vegetarian)](japanese/ramen-vegetarian.md)
     - [Soboro Donburi](japanese/soboro-donburi.md)
+    - [Spicy Bean Sprout Salad](japanese/spicy-bean-sprout-salad.md)
+    - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Taiyaki](japanese/taiyaki.md)
     - [Yakimeshi (Japanese Fried Rice)](japanese/japanese-fried-rice.md)
     - [Yakisoba (Japanese Stir-Fried Noodles)](japanese/yakisoba.md)

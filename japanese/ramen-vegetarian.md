@@ -27,8 +27,8 @@
 - 1 serving fresh ramen noodles (5-6 oz or 142-170 g fresh noodles; 3.2 oz or 90 g dry ramen noodles; for gluten-free, use these GF ramen noodles)
 ### For the Ramen Toppings (Prepare Ahead)
 - [Ramen Egg (Ajitsuke Tamago)](/japanese/ramen-eggs.md)
-- Spicy Bean Sprout Salad
-- homemade vegetarian kimchi
+- [Spicy Bean Sprout Salad](/japanese/spicy-bean-sprout-salad.md)
+- Kimchi
 - frozen or canned corn
 - green onion/scallion (green part)
 
