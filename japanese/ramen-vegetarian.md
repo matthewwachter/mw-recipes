@@ -1,8 +1,8 @@
 # Vegetarian Ramen
 
 ## Source
-[The Ramen_Lord Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit)
-[Vegetarian Ramen](https://www.justonecookbook.com/vegetarian-ramen/)
+- [The Ramen_Lord Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit)
+- [Vegetarian Ramen](https://www.justonecookbook.com/vegetarian-ramen/)
 
 ## Ingredients
 ### For the Vegetarian Dashi

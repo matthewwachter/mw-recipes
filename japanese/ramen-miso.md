@@ -1,53 +1,58 @@
-# Vegetarian Ramen
+# Miso Ramen
 
 ## Source
-[The Ramen_Lord Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit)
-[Vegetarian Ramen](https://www.justonecookbook.com/vegetarian-ramen/)
+- [The Ramen_Lord Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit)
+- [Miso Ramen](https://www.justonecookbook.com/homemade-chashu-miso-ramen/)
 
 ## Ingredients
-### For the Vegetarian Dashi
-- ¾ cup water
-- 1 piece kombu (dried kelp) (1 inch x 2 inches, 2.5 cm x 5 cm)
-- 1 dried shiitake mushroom
-### For the Soup Broth
+### For the Ramen Soup:
+- 2 cloves garlic (1½ tsp minced garlic)
+- 1 knob ginger (½ tsp grated ginger)
+- 1 shallot
 - 1 Tbsp toasted white sesame seeds
-- 2 cloves garlic
-- ½ inch ginger
-- green onion/scallion (white part)
-- 2 tsp roasted sesame oil
-- 2 tsp doubanjiang (spicy chili bean sauce/broad bean paste) (you can buy the non-spicy version online)
-- 2 tsp miso
+- 1 Tbsp roasted sesame oil
+- ¼ lb ground pork
+- 1 tsp doubanjiang (spicy chili bean sauce/broad bean paste) (you can buy a non-spicy version online)
+- 3 Tbsp miso (each miso brand/type makes a slightly different broth)
+- 1 Tbsp sugar
 - 1 Tbsp sake
-- 2 tsp soy sauce
-- 1 cup unsweetened soy milk
-- ½ cup dashi (Japanese soup stock; click to learn more) (ingredients and instructions in the recipe below)
-- ¼ tsp kosher salt (Diamond Crystal; use half for table salt)
-- Dash white pepper powder
-### For the Noodles
-- 1 serving fresh ramen noodles (5-6 oz or 142-170 g fresh noodles; 3.2 oz or 90 g dry ramen noodles; for gluten-free, use these GF ramen noodles)
-### For the Ramen Toppings (Prepare Ahead)
-- Ramen Egg (Ajitsuke Tamago) (omit for vegan)
-- Spicy Bean Sprout Salad
-- homemade vegetarian kimchi
-- frozen or canned corn
-- green onion/scallion (green part)
+- 4 cups Chicken Stock/Broth (homemade or store bought) (each ramen bowl requires about 1½ cups (360 ml) of broth + a bit more for evaporation)
+- 1 tsp kosher or sea salt (I use Diamond Crystal; use half for table salt) (adjust according to your chicken broth)
+- ¼ tsp white pepper powder
+### For the Ramen and Optional Toppings:
+- 2 servings fresh ramen noodles (10-12 oz or 283-340 g fresh noodles; 6.3 oz or 180 g dry ramen noodles; for gluten-free, use these GF ramen noodles)
+- Chashu (homemade or store bought)
+- spicy bean sprout salad (or blanched bean sprouts)
+- ramen egg (ajitsuke tamago)
+- frozen or canned corn (drained)
+- nori (dried laver seaweed) (cut a sheet into quarters)
+- green onion/scallion (chopped)
+- shiraga negi (julienned long green onion)
+### For the Table (Optional):
+- la-yu (Japanese chili oil)
+- pickled red ginger (beni shoga or kizami beni shoga)
+- white pepper powder
 
 ## Instructions
-1. Gather all the ingredients. Please note that the serving size is one for this recipe. You can scale the recipe to multiply the ingredients for the number of servings you wish to prepare.
-### To Make the Vegetarian Dashi (Kombu + Shiitake)
-1. Soak the kombu and dried shiitake mushroom in the measured water for at least 30 minutes. Transfer the liquid, kombu, and shiitake to a small saucepan. Slowly bring the liquid to a boil over low heat. This will help enhance the dashi flavor.
-2. Right before the liquid reaches a full boil, remove the kombu and shiitake mushroom from the dashi. If you leave the kombu in the liquid, the dashi will become slimy. Turn off the heat and set aside.
-### To Make the Soup Broth
-1. Grind and crush the sesame seeds in a Japanese mortar and pestle (suribachi and surikogi like this).
-2. Mince the garlic (I used a garlic press) and the ginger.
-3. Separate the green and white parts of the scallion, and then cut into thin rounds.
-4. Set a small saucepan over medium-low heat. Once hot, add the sesame oil. Then, add the garlic, ginger, and white part of the scallion and cook until fragrant.
-5. Add the doubanjiang (spicy chili bean sauce/broad bean paste) and miso to the saucepan. Stir constantly so that they don’t burn.
-6. Add the sake and use a wooden spatula to stir and release the bits of the sauce attached to the bottom of the saucepan.
-7. Add the ground sesame seeds and soy sauce.
-8. Gradually add the soy milk, stirring constantly and making sure to dissolve the doubanjiang and miso. Then, add the kombu and shiitake dashi.
-9. Add a dash of white pepper and salt to taste. Turn off the heat and set aside.
-### To Assemble
-1. Once the soup and all the toppings are prepared, cook the fresh or dried ramen noodles in boiling water according to the package instructions. (Do not overcook the noodles; I usually cook 30-60 seconds less than specified.) Make sure to loosen the noodles before adding them to the boiling water and stir the noodles so that they don’t stick to each other. Reheat the soup broth at the same time.
-2. Once the noodles are cooked, drain them very well and transfer them to a ramen bowl. Pour the hot soup broth into the bowl.
-3. Place the toppings of your choice on the ramen and enjoy!
+1. Gather all the ingredients.
+
+### To Prepare the Ramen Soup
+1. Mince the garlic (I use this garlic press) and ginger (I use this ceramic grater).
+2. Mince the shallot. Set these three prepared ingredients aside.
+3. Grind the sesame seeds, leaving some seeds unground for texture.
+4. In a medium pot, heat the sesame oil over medium-low heat and add the minced garlic, ginger, and shallot.
+5. With a wooden spatula, stir fry until fragrant.
+6. Add the meat and increase heat to medium. Cook the meat until no longer pink.
+7. Add the spicy bean paste (la doubanjiang) or non-spicy bean paste (doubanjiang) and miso. Quickly blend well with the meat before they get burnt.
+8. Add the ground sesame seeds and sugar and mix well.
+9. Add the sake and chicken stock and bring the mixture to a simmer.
+10. Taste your soup and add salt (if necessary) and white pepper. Each brand of chicken stock varies in saltiness, so you will have to taste your soup to decide how much salt to add.
+11. Cover with the lid and keep the ramen soup simmering while you cook the noodles.
+
+### To Prepare the Toppings and Ramen Noodles
+1. Bring a large pot of unsalted water to a boil (ramen noodles already include salt in the dough). When the water is boiling, ladle some hot water into the serving bowls to warm them up. Meanwhile, gently shake the fresh noodles with your hand to separate and loosen them up.
+2. Important: Prepare the toppings ahead of time so you can serve the hot ramen immediately. For toppings, I use chashu, ramen egg, blanched bean sprout (or spicy bean sprouts), corn kernels, shiraga negi, chopped green onion, and a sheet of nori. Prepare a small dish of red pickled ginger, a bottle of la-yu (chili oil), and some white pepper powder on the table.
+3. Cook the noodles according to the package instructions. I usually cook the noodles al dente (about 15 seconds less than the suggested cooking time). Before your noodles are done cooking, empty the hot water from the warmed ramen bowls.
+4. When the noodles are done, quickly pick them up with a mesh sieve and shake out the excess water. You don’t want to dilute your soup, so make sure to drain the water well. Serve the noodles into the warmed bowls.
+5. Add the ramen soup and top with the various toppings you’ve prepared.
+6. Place the toppings of your choice on top of the noodles and serve immediately.
