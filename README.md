@@ -44,6 +44,7 @@ Also included are several links to external sites provided they are not riddled 
 - Mexican
     - [Chicken Chile Verde](mexican/chicken-chile-verde.md)
     - [Don Stanley's Spanish Rice](mexican/don-stanleys-spanish-rice.md)
+    - [Crunchy Half Moons (midwestern)](mexican/crunchy-half-moons)
 
 - Pasta
     - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
