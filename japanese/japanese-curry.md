@@ -17,7 +17,7 @@
 - 1 package Japanese curry roux (7-8 oz or 200-230 g for 6 servings; or use my Homemade Curry Roux)
 - 1 Tbsp ketchup (read the blog post for add-on condiments)
 - 1 Tbsp soy sauce (read the blog post for add-on condiments)
-- Fukujinzuke (red pickled daikon)
+- [Fukujinzuke](fukujinzuke.md) (red pickled daikon)
 - White short-grain rice
 
 ## Instructions

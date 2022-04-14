@@ -23,6 +23,7 @@
     - Pickled red ginger
     - Fukujinzuke
     - Kimchi
+    - [Sunomono](japanese-cucumber-salad.md)
 
 ## Instructions
 1. Get the rice cookin
@@ -38,5 +39,5 @@
     3. Hold several chopsticks in one hand and break the egg into small pieces. When it’s cooked, transfer to another bowl.
 
 ## Notes
-- Crack a quail egg on top after assembling over rice.
+- Crack a quail egg on top after assembling meat and egg over rice.
 - The other add-ons are great but some are rather non-traditional. Personally I think they all go well together but some might disagree.
