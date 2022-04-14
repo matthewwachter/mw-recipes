@@ -37,6 +37,7 @@ Also included are several links to external sites provided they are not riddled 
 
 - Japanese
     - [Chashu](japanese/chashu.md)
+    - [Chicken Katsu](japanese/chicken-katsu.md)
     - [Fukujinzuke (Japanese Red Pickled Daikon Salad)](japanese/fukujinzuke.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
