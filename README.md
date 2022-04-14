@@ -7,6 +7,9 @@ A few of these recipes require an instant pot or some form of pressure cooker bu
 Also included are several links to external sites provided they are not riddled with ads or behind paywalls.
 
 ## Contents
+- American
+    - [Crunchy Half Moons (Midwestern Tacos)](american/crunchy-half-moons.md)
+    - [Market Street Meatloaf](american/market-street-meatloaf.md)
 
 - Appetizers
     - [Meat Slaw](appetizers/meat-slaw.md)
@@ -64,7 +67,6 @@ Also included are several links to external sites provided they are not riddled 
 - Mexican
     - [Chicken Chile Verde](mexican/chicken-chile-verde.md)
     - [Don Stanley's Spanish Rice](mexican/don-stanleys-spanish-rice.md)
-    - [Crunchy Half Moons (Midwestern Tacos)](mexican/crunchy-half-moons.md)
 
 - Pasta
     - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
