@@ -10,7 +10,7 @@ Vartan
     - 2 Tsp Adobo Sauce from canned chipotle chilis
     - 2 Tbsp Ketchup
     - 1/2 Cup Mayo
-- Beef (not lean)
+- Ground Beef (not lean)
 - [Hamburger Potato Buns](/baking/hamburger-potato-buns.md)
 - American Cheese
 - Pickle slices
