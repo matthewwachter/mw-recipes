@@ -40,8 +40,9 @@ Also included are several links to external sites provided they are not riddled 
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
     - [Soboro Bowls](japanese/soboro-bowls.md)
-    - [Taiyaki](breakfast/taiyaki.md)
+    - [Taiyaki](japanese/taiyaki.md)
     - [Yakimeshi (Japanese Fried Rice)](japanese/japanese-fried-rice.md)
+    - [Yakisoba (Japanese Stir-Fried Noodles)](japanese/yakisoba.md)
 
 - Jewish
     - [Latkes](jewish/latkes.md)
