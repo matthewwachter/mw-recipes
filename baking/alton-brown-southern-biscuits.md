@@ -4,13 +4,13 @@
 [Alton Brown Southern Biscuits](https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe-2041990)
 
 ## Ingredients
-2 cups flour
-4 teaspoons baking powder
-1/4 teaspoon baking soda
-3/4 teaspoon salt
-2 tablespoons butter
-2 tablespoons shortening
-1 cup buttermilk, chilled
+- 2 cups flour
+- 4 teaspoons baking powder
+- 1/4 teaspoon baking soda
+- 3/4 teaspoon salt
+- 2 tablespoons butter
+- 2 tablespoons shortening
+- 1 cup buttermilk, chilled
 
 ## Instructions
 1. Preheat oven to 450 degrees.
