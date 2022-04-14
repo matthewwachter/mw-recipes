@@ -32,12 +32,13 @@ Also included are several links to external sites provided they are not riddled 
     - [Hurt-Hurt Fruit](http://whatupinternet.com/en/hurthurtfruit/)
 
 - Japanese
-    - [Fukujinzuke](japanese/fukujinzuke.md)
-    - [Japanese Cucumber Salad (Sunomono)](japanese/japanese-cucumber-salad.md)
+    - [Fukujinzuke (Japanese Red Pickled Daikon Salad)](japanese/fukujinzuke.md)
+    - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
     - [Soboro Bowls](japanese/soboro-bowls.md)
     - [Taiyaki](breakfast/taiyaki.md)
+    - [Yakimeshi (Japanese Fried Rice)](japanese/japanese-fried-rice.md)
 
 - Jewish
     - [Latkes](jewish/latkes.md)
