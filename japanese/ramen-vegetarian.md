@@ -28,7 +28,7 @@
 ### For the Ramen Toppings (Prepare Ahead)
 - [Ramen Egg (Ajitsuke Tamago)](/japanese/ramen-eggs.md)
 - [Spicy Bean Sprout Salad](/japanese/spicy-bean-sprout-salad.md)
-- Kimchi
+- [Kimchi](/korean/kimchi.md)
 - frozen or canned corn
 - green onion/scallion (green part)
 

@@ -22,7 +22,7 @@
     - Green Peas
     - Pickled red ginger
     - [Fukujinzuke](fukujinzuke.md)
-    - Kimchi
+    - [Kimchi](/korean/kimchi.md)
     - [Sunomono](japanese-cucumber-salad.md)
 
 ## Instructions

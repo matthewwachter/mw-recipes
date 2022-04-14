@@ -24,6 +24,7 @@
 - [Chashu](/japanese/chashu.md) (homemade or store bought)
 - [Spicy Bean Sprout Salad](/japanese/spicy-bean-sprout-salad.md)
 - [Ramen Egg (Ajitsuke Tamago)](/japanese/ramen-eggs.md)
+- [Kimchi](/korean/kimchi.md)
 - frozen or canned corn (drained)
 - nori (dried laver seaweed) (cut a sheet into quarters)
 - green onion/scallion (chopped)
