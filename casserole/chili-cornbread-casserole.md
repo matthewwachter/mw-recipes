@@ -14,6 +14,7 @@ Chili:
 - 1 (28 oz ) can crushed tomatoes
 - 1½ cups frozen corn
 - 1 (15 oz) can black beans, rinsed and drained
+
 Cornbread topping:
 - 1 cup cornmeal
 - 1 cup all-purpose flour
