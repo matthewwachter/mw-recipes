@@ -31,7 +31,3 @@ For the Yakisoba Sauce (Makes ½ cup, 120 ml)
 7. Lastly, add the green onions and shiitake mushrooms and cook for 1 minute. Season with freshly ground black pepper to taste.
 8. Transfer the yakisoba noodles to a sieve and quickly run hot water over the noodles. Loosen the noodles with your hands. Add the noodles to the skillet or wok and lower the heat to medium. It’s best to use tongs to combine the noodles and ingredients. Keep an eye on the noodles as they may stick to the skillet/wok.
 9. Add the Yakisoba Sauce and mix it all together. Add more sauce if needed.
-
-
-## Notes
-- There's a bunch of different shit you can put in them. 
