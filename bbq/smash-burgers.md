@@ -14,7 +14,7 @@ Vartan
 - [Hamburger Potato Buns](/baking/hamburger-potato-buns.md)
 - American Cheese
 - Pickle slices
-- Not mandatory:
+- Add-Ons:
     - Grilled Onion
     - Lettuce
     - Grilled Jalapeno
@@ -27,7 +27,7 @@ Vartan
 3. Get the griddle real hot and make sure it has some veg oil on it. Should almost be smoking.
 4. Throw on some buns and smash the bugers. Best to do them one/two at a time as they go pretty quick.
 5. Add cheese to burgers after flipping.
-6. Serve with special sauce, pickles, and any non-mandory add-ons you desire.
+6. Serve with special sauce, pickles, and any add-ons you desire.
 
 ## Notes
 - Potato buns are the best but feel free to use whatever. This recipe is great as well: [Hamburger Buns](/baking/hamburger-buns.md)
