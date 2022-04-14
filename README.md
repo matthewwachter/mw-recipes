@@ -40,6 +40,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
+    - [Ramen Eggs (Ajitsuke Tamago)](japanese/ramen-eggs.md)
     - [Ramen (Miso)](japanese/ramen-miso.md)
     - [Ramen (Vegetarian)](japanese/ramen-vegetarian.md)
     - [Soboro Donburi](japanese/soboro-donburi.md)

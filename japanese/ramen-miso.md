@@ -23,7 +23,7 @@
 - 2 servings fresh ramen noodles (10-12 oz or 283-340 g fresh noodles; 6.3 oz or 180 g dry ramen noodles; for gluten-free, use these GF ramen noodles)
 - Chashu (homemade or store bought)
 - spicy bean sprout salad (or blanched bean sprouts)
-- ramen egg (ajitsuke tamago)
+- [Ramen Egg (Ajitsuke Tamago)](/japanese/ramen-eggs.md)
 - frozen or canned corn (drained)
 - nori (dried laver seaweed) (cut a sheet into quarters)
 - green onion/scallion (chopped)
