@@ -64,5 +64,5 @@ Also included are several links to external sites provided they are not riddled 
     - [The Soup](soup/the-soup.md)
 
 - Thai
-    - [Thai Fried Rice Chicken](thai/thai-fried-rice-chicken.md)
+    - [Thai Chicken Fried Rice](thai/thai-chicken-fried-rice.md)
     - [Thai Green Curry](thai/thai-green-curry.md)
