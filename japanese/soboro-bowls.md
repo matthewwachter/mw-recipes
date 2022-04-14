@@ -21,7 +21,7 @@
     - Quail Egg
     - Green Peas
     - Pickled red ginger
-    - Fukujinzuke
+    - [Fukujinzuke](fukujinzuke.md)
     - Kimchi
     - [Sunomono](japanese-cucumber-salad.md)
 
