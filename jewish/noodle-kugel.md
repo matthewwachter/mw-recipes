@@ -1,4 +1,4 @@
-# Latkes
+# Noodle Kugel
 
 ## Source
 [Noodle Kugel](https://www.bonappetit.com/recipe/basically-noodle-kugel)
