@@ -61,6 +61,7 @@ Also included are several links to external sites provided they are not riddled 
 
 - Soup
     - [Cheddar Broccoli Soup](soup/cheddar-broccoli-soup.md)
+    - [Polenta Kale Miso Soup](soup/polenta-kale-miso-soup.md)
     - [The Soup](soup/the-soup.md)
 
 - Thai
