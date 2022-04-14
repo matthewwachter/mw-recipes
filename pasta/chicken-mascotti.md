@@ -17,7 +17,7 @@ Deer Harbor Inn
 - Asiago cheese
 
 ## Instructions
-1. Cook fettucine ala dante.
+1. Cook fettucine al dente.
 2. Saute chicken breast with butter, chardonnay, artichoke hearts, red bell pepper, green onions, tomatoes, basil, and garlic. 
 3. Add fettucine and mix it up.
 4. Top with asiago cheese.
