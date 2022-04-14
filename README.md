@@ -28,6 +28,7 @@ Also included are several links to external sites provided they are not riddled 
 - Casserole
     - [Baked Mac & Cheese](casserole/baked-mac-n-cheese.md)
     - [Breakfast Strata with Spinach and Gruyere](casserole/breakfast-strata-with-spinach-and-gruyere.md)
+    - [Chili Cornbread Casserole](casserole/chili-cornbread-casserole/)
     - [Impossibly Easy Cheeseburger Pie](casserole/impossibly-easy-cheeseburger-pie.md)
 
 - Hot Sauce
