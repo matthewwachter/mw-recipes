@@ -11,7 +11,7 @@ Vartan
     - 2 Tbsp Ketchup
     - 1/2 Cup Mayo
 - Beef (not lean)
-- [Hamburger Potato Buns](baking/hamburger-potato-buns.md)
+- [Hamburger Potato Buns](/baking/hamburger-potato-buns.md)
 - American Cheese
 - Pickle slices
 - Not mandatory:
@@ -30,5 +30,5 @@ Vartan
 6. Serve with special sauce, pickles, and any non-mandory add-ons you desire.
 
 ## Notes
-- Potato buns are the best but feel free to use whatever. This recipe is great as well: [Hamburger Buns](baking/hamburger-buns.md)
+- Potato buns are the best but feel free to use whatever. This recipe is great as well: [Hamburger Buns](/baking/hamburger-buns.md)
 
