@@ -52,6 +52,7 @@ Also included are several links to external sites provided they are not riddled 
 - Pasta
     - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
     - [Chicken Mascotti](pasta/chicken-mascotti.md)
+    - [Tomato Spinach One Pot Pasta](pasta/tomato-spinach-one-pot-pasta.md)
 
 - Soup
     - [Cheddar Broccoli Soup](soup/cheddar-broccoli-soup.md)
