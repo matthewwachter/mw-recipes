@@ -47,6 +47,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Spicy Bean Sprout Salad](japanese/spicy-bean-sprout-salad.md)
     - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Taiyaki](japanese/taiyaki.md)
+    - [Teriyaki Salmon](japanese/teriyaki-salmon.md)
     - [The Ramen_Lord Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit#heading=h.630l4m8xqvdo)
     - [Yakimeshi (Japanese Fried Rice)](japanese/japanese-fried-rice.md)
     - [Yakisoba (Japanese Stir-Fried Noodles)](japanese/yakisoba.md)
