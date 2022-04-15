@@ -71,6 +71,7 @@ If at any point you feel like these recipes are lacking a life story please refe
 - Mexican
     - [Chicken Chile Verde](mexican/chicken-chile-verde.md)
     - [Don Stanley's Spanish Rice](mexican/don-stanleys-spanish-rice.md)
+    - [Pickled Red Onions](mexican/pickled-red-onions.md)
 
 - Pasta
     - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
