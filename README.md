@@ -49,6 +49,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Ramen (Miso)](japanese/ramen-miso.md)
     - [Ramen (Vegetarian)](japanese/ramen-vegetarian.md)
     - [Soboro Donburi](japanese/soboro-donburi.md)
+    - [Spam Musubi](japanese/spam-musubi.md)
     - [Spicy Bean Sprout Salad](japanese/spicy-bean-sprout-salad.md)
     - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Taiyaki](japanese/taiyaki.md)
