@@ -6,6 +6,8 @@ A few of these recipes require an instant pot or some form of pressure cooker bu
 
 Also included are several links to external sites provided they are not riddled with ads or behind paywalls.
 
+If at any point you feel like these recipes are lacking a life story please refer to this document: [My Life Story](my-life-story.md)
+
 ## Contents
 - American
     - [Crunchy Half Moons (Midwestern Tacos)](american/crunchy-half-moons.md)
