@@ -63,6 +63,7 @@ Also included are several links to external sites provided they are not riddled 
     - [Noodle Kugel](jewish/noodle-kugel.md)
 
 - Korean
+    - [Gochujang Sauce](korean/gochujang-sauce.md)
     - [Kimchi](korean/kimchi.md)
     
 - Mexican
@@ -72,6 +73,7 @@ Also included are several links to external sites provided they are not riddled 
 - Pasta
     - [Broke College Student Sausage Penne Alfredo](pasta/broke-college-sausage-penne-alfredo.md)
     - [Chicken Mascotti](pasta/chicken-mascotti.md)
+    - [Mama's Baked Tomato Pasta](pasta/mamas-baked-tomato-pasta.md)
     - [Tomato Spinach One Pot Pasta](pasta/tomato-spinach-one-pot-pasta.md)
 
 - Soup
