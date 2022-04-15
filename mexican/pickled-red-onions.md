@@ -4,12 +4,12 @@
 [Pickled Red Onions](https://www.seriouseats.com/pickled-red-onions)
 
 ## Ingredients
-1 jalapeño pepper, cut into 1/4-inch rings
-2 large red onions, finely sliced (about 1 quart)
-1 cup distilled white vinegar
-2 teaspoons kosher salt
-1 cup water
-1 cup sugar
+- 1 jalapeño pepper, cut into 1/4-inch rings
+- 2 large red onions, finely sliced (about 1 quart)
+- 1 cup distilled white vinegar
+- 2 teaspoons kosher salt
+- 1 cup water
+- 1 cup sugar
 
 ## Instructions
 1. Place jalepeño and onions in a medium mixing bowl. 
