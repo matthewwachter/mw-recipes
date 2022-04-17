@@ -27,7 +27,7 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Pain du Pandémique](http://whatupinternet.com/en/paindupandemique/)
 
 - BBQ
-    - [Rick's Salmon](bbq/sesame-tamari-garlic-dill-salmon.md)
+    - [Chris' Salmon](bbq/sesame-tamari-garlic-dill-salmon.md)
     - [Smash Burgers](bbq/smash-burgers.md)
 
 - Breakfast

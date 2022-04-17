@@ -1,7 +1,7 @@
-# Rick's Salmon
+# Chris' Salmon
 
 ## Source
-Rick
+Chris
 
 ## Ingredients
 - Salmon
