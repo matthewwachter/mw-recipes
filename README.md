@@ -36,6 +36,8 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Chili Cornbread Casserole](casserole/chili-cornbread-casserole.md)
     - [Impossibly Easy Cheeseburger Pie](casserole/impossibly-easy-cheeseburger-pie.md)
 - Hawaiian
+    - [Coconut Rice](hawaiian/coconut-rice.md)
+    - [Hawaiian Chicken Teriyaki Bowl](hawaiian/hawaiian-chicken-teriyaki.md)
     - [Hawaiian Macaroni Salad](hawaiian/hawaiian-macaroni-salad.md)
     - [Spam Musubi](hawaiian/spam-musubi.md)
 - Hot Sauce
