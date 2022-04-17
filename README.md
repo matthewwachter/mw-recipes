@@ -35,7 +35,9 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Breakfast Strata with Spinach and Gruyere](casserole/breakfast-strata-with-spinach-and-gruyere.md)
     - [Chili Cornbread Casserole](casserole/chili-cornbread-casserole.md)
     - [Impossibly Easy Cheeseburger Pie](casserole/impossibly-easy-cheeseburger-pie.md)
-
+- Hawaiian
+    - [Hawaiian Macaroni Salad](hawaiian/hawaiian-macaroni-salad.md)
+    - [Spam Musubi](hawaiian/spam-musubi.md)
 - Hot Sauce
     - [Habanero Jamaica](http://whatupinternet.com/en/habanerojamaica/)
     - [Hurt-Hurt Fruit](http://whatupinternet.com/en/hurthurtfruit/)
@@ -51,7 +53,6 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Ramen (Miso)](japanese/ramen-miso.md)
     - [Ramen (Vegetarian)](japanese/ramen-vegetarian.md)
     - [Soboro Donburi](japanese/soboro-donburi.md)
-    - [Spam Musubi](japanese/spam-musubi.md)
     - [Spicy Bean Sprout Salad](japanese/spicy-bean-sprout-salad.md)
     - [Sunomono (Japanese Cucumber Salad)](japanese/japanese-cucumber-salad.md)
     - [Taiyaki](japanese/taiyaki.md)
