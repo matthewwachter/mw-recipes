@@ -17,6 +17,7 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Greek Pasta Salad](appetizers/greek-pasta-salad.md)
     - [Italian Pasta Salad](appetizers/italian-pasta-salad.md)
     - [Meat Slaw](appetizers/meat-slaw.md)
+    - [Potato Salad](appetizers/potato-salad.md)
 
 - Baking
     - [Alton Brown Southern Biscuits](baking/alton-brown-southern-biscuits.md)

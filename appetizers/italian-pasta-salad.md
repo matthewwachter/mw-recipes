@@ -13,7 +13,7 @@ Emma
 - Canned pitted black olives (sliced)
 
 - dressing: italian vinaigrette base (always best if you make it yourself!):
-    - most important is the red wine vinegar and olive oil, and 
+    - most important is the red wine vinegar and olive oil
 
 - You may include:
     - lemon juice
