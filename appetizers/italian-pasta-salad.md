@@ -14,7 +14,15 @@ Emma
 
 - dressing: italian vinaigrette base (always best if you make it yourself!):
     - most important is the red wine vinegar and olive oil, and 
-    - may include lemon juice, fresh garlic, dijon mustard, dried oregano, salt and pepper. MEASURE WITH YOUR HEART
+
+- You may include:
+    - lemon juice
+    - fresh garlic
+    - dijon mustard
+    - dried oregano
+    - salt and pepper. 
+    
+MEASURE WITH YOUR HEART
 
 ## Instructions
 1. make the tortellini, drain and cool.
