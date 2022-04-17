@@ -14,6 +14,8 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Market Street Meatloaf](american/market-street-meatloaf.md)
 
 - Appetizers
+    - [Greek Pasta Salad](appetizers/greek-pasta-salad.md)
+    - [Italian Pasta Salad](appetizers/italian-pasta-salad.md)
     - [Meat Slaw](appetizers/meat-slaw.md)
 
 - Baking
