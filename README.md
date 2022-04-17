@@ -48,6 +48,7 @@ If at any point you feel like these recipes are lacking a life story please refe
     - [Fukujinzuke (Japanese Red Pickled Daikon Salad)](japanese/fukujinzuke.md)
     - [Japanese Curry](japanese/japanese-curry.md)
         - [GF Curry Roux](japanese/gf-curry-roux.md)
+    - [Japanese Potato Salad](japanese/japanese-potato-salad.md)
     - [Miso Salmon](japanese/miso-salmon.md)
     - [Ramen Eggs (Ajitsuke Tamago)](japanese/ramen-eggs.md)
     - [Ramen (Miso)](japanese/ramen-miso.md)
