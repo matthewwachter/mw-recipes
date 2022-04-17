@@ -25,7 +25,7 @@ Emma
 MEASURE WITH YOUR HEART
 
 ## Instructions
-1. make the tortellini, drain and cool.
-2. mix in halved grape tomatos (or chopped sundried ones), drained mini mozzies, chopped basil. Chopped red onion and bell pepper can be added if you like the bite of those stronger flavors with a bit of extra crunch and texture.
+1. Make the tortellini, drain and cool.
+2. Mix in halved grape tomatos (or chopped sundried ones), drained mini mozzies, chopped basil. Chopped red onion and bell pepper can be added if you like the bite of those stronger flavors with a bit of extra crunch and texture.
 3. Toss this mixture with dressing until coated but not dripping.
 4. Finally, mix in a little mayo at the end to boost creaminess. Always add the mayo at the end to control liquid level!
