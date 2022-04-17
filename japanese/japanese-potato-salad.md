@@ -1,7 +1,7 @@
 # Japanese Potato Salad
 
 ## Source
-[pressure Cooker Potato Salad](https://www.justonecookbook.com/pressure-cooker-potato-salad/)
+[Pressure Cooker Potato Salad](https://www.justonecookbook.com/pressure-cooker-potato-salad/)
 
 ## Ingredients
 - 1 large egg (50 g w/o shell)
